@@ -68,7 +68,7 @@ void merge(int *arr, int *tmp, int start, int mid, int end)
 	print_array(&arr[start], left + right);
 }
 /**
- *mergesort - function that sorts an array of 
+ *mergesort - function that sorts an array of
  *integers in ascending order using the Merge sort algorithm
  *@array: array of integers
  *@tmp: temp array used in merge, was created outside to
